@@ -104,7 +104,7 @@ A high-fidelity Blackjack simulation featuring 3D card animations, persistent st
 
 For collaboration inquiries or project discussions, feel free to reach out via GitHub, LinkedIn, X, or email.
 
-[![GitHub followers](https://img.shields.io/github/followers/junlinwk?style=flat-square&logo=github&label=Follow%20%40junlinwk&color=181717)](https://github.com/junlinwk)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow%20%40junlinwk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junlinwk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jun-lin-8bb2a2309)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/junlin48233)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tapjun888@gmail.com)

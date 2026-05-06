@@ -1,20 +1,18 @@
-# Jun Lin WK
+# Jun Lin WK 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junlinwk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tapjun888@gmail.com)
-[![Profile Views](https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-0A66C2?style=flat-square)](https://github.com/junlinwk)
+[![Profile Views](https://img.shields.io/badge/Focus-AI--Implementation%20%26%20AI--Application%20%26%20Full--Stack-0A66C2?style=flat-square)](https://github.com/junlinwk)
 
 Software engineer building AI tooling, automation utilities, and full-stack web applications. My work centers on transforming complex or fragmented workflows into reliable, well-engineered software — spanning multi-provider AI workspaces, terminal automation, and interactive web platforms.
 
 ---
 
-## About
+## 🌟 About
 
 I design and ship software end-to-end, with an emphasis on developer experience, system reliability, and pragmatic problem-solving. My recent work focuses on integrating large language models into productive workflows, automating manual processes, and building polished user-facing interfaces.
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 ### AI Workbench Pro
 A full-stack AI workspace supporting multi-provider chat, conversation branching, visual task graphs, and offline-first operation.
@@ -50,7 +48,7 @@ A high-fidelity Blackjack simulation featuring 3D card animations, persistent st
 
 ---
 
-## Technical Skills
+## 🌟 Technical Skills
 
 **Languages**
 
@@ -78,6 +76,8 @@ A high-fidelity Blackjack simulation featuring 3D card animations, persistent st
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **AI Development Tools**
 
@@ -91,7 +91,7 @@ A high-fidelity Blackjack simulation featuring 3D card animations, persistent st
 
 ---
 
-## Current Focus
+## 🌟 Current Focus
 
 - AI-assisted productivity tooling
 - Command-line automation and developer utilities
@@ -100,6 +100,11 @@ A high-fidelity Blackjack simulation featuring 3D card animations, persistent st
 
 ---
 
-## Contact
+## 🌟 Contact
 
-For collaboration inquiries or project discussions, feel free to reach out via [GitHub](https://github.com/junlinwk) or [email](mailto:tapjun888@gmail.com).
+For collaboration inquiries or project discussions, feel free to reach out via GitHub, LinkedIn, X, or email.
+
+[![GitHub followers](https://img.shields.io/github/followers/junlinwk?style=flat-square&logo=github&label=Follow%20%40junlinwk&color=181717)](https://github.com/junlinwk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jun-lin-8bb2a2309)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/junlin48233)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tapjun888@gmail.com)

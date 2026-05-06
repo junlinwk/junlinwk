@@ -30,12 +30,6 @@ A Telegram interface for controlling the Claude Code CLI remotely, with mobile-f
 
 **Repository:** [junlinwk/claude-telegram-bridge](https://github.com/junlinwk/claude-telegram-bridge)
 
-### Task Scheduler Pro
-A full-stack task management application featuring Google authentication, calendar views, quick search, categorization, and task analytics.
-
-**Live Demo:** [task-scheduler-pro.infinityfreeapp.com](https://task-scheduler-pro.infinityfreeapp.com/index.php)
-**Repository:** [junlinwk/task-scheduler-pro](https://github.com/junlinwk/task-scheduler-pro)
-
 ### Audio Latency Workbench
 A browser-based tool for measuring audio output latency, built with the Web Audio API and a visual timing interface.
 

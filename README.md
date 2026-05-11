@@ -14,7 +14,7 @@ I design and ship software end-to-end, with an emphasis on developer experience,
 
 ## 🌟 Featured Projects
 
-### AI Workbench Pro
+### AI Workbench
 A full-stack AI workspace supporting multi-provider chat, conversation branching, visual task graphs, and offline-first operation.
 
 **Live Demo:** [ai-workbench-pro.vercel.app](https://ai-workbench-pro.vercel.app)
